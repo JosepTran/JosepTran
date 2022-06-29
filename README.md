@@ -33,5 +33,5 @@ Technologies that I've been learning and I've picked up along my programming jou
 
 ## My Stats
 
-<a><img height="137px" src="https://github-readme-stats.vercel.app/api?username=JosepTran&show_icons=true&theme=radical" /></a>
+<a><img height="137px" width="100%" src="https://github-readme-stats.vercel.app/api?username=JosepTran&show_icons=true&theme=radical" /></a>
 
